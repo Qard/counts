@@ -1,6 +1,6 @@
 {
   "name": "counts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Count sets of stuff!",
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "main": "dist/index.js",
