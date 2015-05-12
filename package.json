@@ -1,0 +1,27 @@
+{
+  "name": "counts",
+  "version": "1.0.0",
+  "description": "Count sets of stuff!",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/Qard/counts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/counts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/counts/issues"
+  },
+  "scripts": {
+    "pre-publish": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "gulp-babel": "~5.1.0"
+  },
+  "dependencies": {
+    "gulp": "~3.8.11",
+    "gulp-babel": "~5.1.0"
+  }
+}
