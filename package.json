@@ -14,7 +14,7 @@
     "url": "https://github.com/Qard/counts/issues"
   },
   "scripts": {
-    "pre-publish": "gulp build"
+    "prepublish": "gulp build"
   },
   "devDependencies": {
     "gulp": "~3.8.11",
