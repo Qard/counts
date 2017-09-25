@@ -17,11 +17,11 @@
     "prepublish": "gulp build"
   },
   "devDependencies": {
-    "gulp": "~3.8.11",
-    "gulp-babel": "~5.1.0"
+    "gulp": "~3.9.1",
+    "gulp-babel": "~7.0.0"
   },
   "dependencies": {
-    "gulp": "~3.8.11",
-    "gulp-babel": "~5.1.0"
+    "gulp": "~3.9.1",
+    "gulp-babel": "~7.0.0"
   }
 }

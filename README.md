@@ -1,5 +1,7 @@
 # counts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/counts.svg)](https://greenkeeper.io/)
+
 Count sets of stuff! This is useful for reference counting sets of things for which you have an identifier.
 
 ## Install
